@@ -3,6 +3,8 @@
   "ignoreTests": false,
   "packageRules": [
         {
+            "schedule": ["after 10pm"],
+            "automergeSchedule": ["after 10pm"],
             "matchUpdateTypes": [
                 "minor",
                 "patch"
