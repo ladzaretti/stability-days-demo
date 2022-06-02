@@ -3,7 +3,7 @@
   "ignoreTests": false,
   "packageRules": [
         {
-            "schedule": ["before 15pm"],
+            "schedule": ["before 3pm"],
             "automergeSchedule": ["after 10pm"],
             "matchUpdateTypes": [
                 "minor",
